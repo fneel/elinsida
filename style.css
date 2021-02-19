@@ -216,6 +216,8 @@ hr {
 .elinPinnar {
     display: inline-flex;
     max-width: 50%; 
+    justify-content: end;
+    justify-self: end;
 
 }
 /* footer */
