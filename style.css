@@ -196,13 +196,13 @@ hr {
     display: flex;
     width: 70%;
     font-family: "Roboto";
-    justify-content: center;
+    justify-content: right;
     margin-left: 15%;
     margin-right: 15%;
     margin-top: 30px;
     margin-bottom: 50px;
     background-color: rgba(216, 216, 216, 0.63);
-    padding: 30px;
+    padding: 0px;
    
 }
 .mainItem {
